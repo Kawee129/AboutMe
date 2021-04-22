@@ -2,5 +2,4 @@
 
 Food: Tomyamkoong
 Address: Cosmic
-Travel: Pattaya:)
 
